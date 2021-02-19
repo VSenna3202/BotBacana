@@ -22,4 +22,4 @@ async def on_message(message):
 
 
 #Comando para colocar o Token Do Bot
-client.run("ODEyMzgwMzczNTQzNTUxMDM3.YC_6Lg.Yro_HDRGDWWbju5GAjQuya9SIsc")
+client.run("token")
